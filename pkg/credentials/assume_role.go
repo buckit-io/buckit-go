@@ -30,7 +30,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/signer"
+	"github.com/buckit-io/buckit-go/v7/pkg/signer"
 )
 
 // AssumeRoleResponse contains the result of successful AssumeRole request.

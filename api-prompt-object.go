@@ -24,7 +24,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // PromptObject performs language model inference with the prompt and referenced object as context.

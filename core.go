@@ -22,7 +22,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/buckit-io/minio-go/v7/pkg/encrypt"
+	"github.com/buckit-io/buckit-go/v7/pkg/encrypt"
 )
 
 // Core - Inherits Client and adds new methods to expose the low level S3 APIs.

@@ -24,7 +24,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/encrypt"
+	"github.com/buckit-io/buckit-go/v7/pkg/encrypt"
 )
 
 // AdvancedGetOptions for internal use by MinIO server - not intended for client use.

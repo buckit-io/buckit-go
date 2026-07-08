@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/buckit-io/minio-go/v7/pkg/cors"
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/cors"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // SetBucketCors sets the Cross-Origin Resource Sharing (CORS) configuration for the bucket.

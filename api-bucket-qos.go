@@ -24,7 +24,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 	"go.yaml.in/yaml/v3"
 )
 

@@ -27,7 +27,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/set"
+	"github.com/buckit-io/buckit-go/v7/pkg/set"
 )
 
 // MaxRetry is the maximum number of retries before stopping.

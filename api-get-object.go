@@ -25,7 +25,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // GetObject wrapper function that accepts a request context

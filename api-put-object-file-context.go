@@ -23,7 +23,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // FPutObject - Create an object in a bucket, with contents from file at filePath. Allows request cancellation.

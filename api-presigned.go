@@ -24,8 +24,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
-	"github.com/buckit-io/minio-go/v7/pkg/signer"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/signer"
 )
 
 // presignURL - Returns a presigned URL for an input 'method'.

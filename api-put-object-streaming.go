@@ -29,7 +29,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 	"github.com/google/uuid"
 )
 

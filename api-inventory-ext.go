@@ -27,7 +27,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // This file contains the inventory API extension for MinIO server. It is not

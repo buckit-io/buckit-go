@@ -68,7 +68,7 @@ type ErrorResponse struct {
 //
 // For example:
 //
-//	import s3 "github.com/buckit-io/minio-go/v7"
+//	import s3 "github.com/buckit-io/buckit-go/v7"
 //	...
 //	...
 //	reader, stat, err := s3.GetObject(...)

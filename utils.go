@@ -40,8 +40,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
-	"github.com/buckit-io/minio-go/v7/pkg/tags"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/tags"
 	md5simd "github.com/minio/md5-simd"
 )
 

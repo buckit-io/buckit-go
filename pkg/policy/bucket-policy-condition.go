@@ -18,7 +18,7 @@
 package policy
 
 import (
-	"github.com/buckit-io/minio-go/v7/pkg/set"
+	"github.com/buckit-io/buckit-go/v7/pkg/set"
 )
 
 // ConditionKeyMap - map of policy condition key and value.

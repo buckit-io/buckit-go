@@ -24,9 +24,9 @@ import (
 	"net/url"
 	"path"
 
-	"github.com/buckit-io/minio-go/v7/pkg/credentials"
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
-	"github.com/buckit-io/minio-go/v7/pkg/signer"
+	"github.com/buckit-io/buckit-go/v7/pkg/credentials"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/signer"
 )
 
 // GetBucketLocation - get location for the bucket name from location cache, if not

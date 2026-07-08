@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/buckit-io/minio-go/v7/pkg/encrypt"
+	"github.com/buckit-io/buckit-go/v7/pkg/encrypt"
 )
 
 func TestPutObjectOptionsValidate(t *testing.T) {

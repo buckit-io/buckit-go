@@ -24,8 +24,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
-	"github.com/buckit-io/minio-go/v7/pkg/tags"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/tags"
 )
 
 // PutObjectTaggingOptions holds an object version id

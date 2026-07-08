@@ -27,7 +27,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // useMultiDeleteForBulkDelete returns true if the client should use

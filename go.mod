@@ -1,4 +1,4 @@
-module github.com/buckit-io/minio-go/v7
+module github.com/buckit-io/buckit-go/v7
 
 go 1.25.0
 

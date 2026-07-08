@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/buckit-io/minio-go/v7/pkg/set"
+	"github.com/buckit-io/buckit-go/v7/pkg/set"
 )
 
 // EventType is a S3 notification event associated to the bucket notification configuration

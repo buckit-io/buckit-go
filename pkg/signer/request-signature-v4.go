@@ -26,7 +26,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/buckit-io/minio-go/v7/pkg/s3utils"
+	"github.com/buckit-io/buckit-go/v7/pkg/s3utils"
 )
 
 // Signature and API related constants.

@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/buckit-io/minio-go/v7"
-	"github.com/buckit-io/minio-go/v7/pkg/credentials"
+	"github.com/buckit-io/buckit-go/v7"
+	"github.com/buckit-io/buckit-go/v7/pkg/credentials"
 )
 
 func main() {
