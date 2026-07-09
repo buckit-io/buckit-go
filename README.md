@@ -1,4 +1,4 @@
-Buckit Go Client SDK for Amazon S3 Compatible Cloud Storage [![Sourcegraph](https://sourcegraph.com/github.com/buckit-io/buckit-go/-/badge.svg)](https://sourcegraph.com/github.com/buckit-io/buckit-go?badge) [![Apache V2 License](https://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/buckit-io/buckit-go/blob/master/LICENSE)
+Buckit Go Client SDK for Amazon S3 Compatible Cloud Storage  [![Apache V2 License](https://img.shields.io/badge/license-Apache%20V2-blue.svg)](https://github.com/buckit-io/buckit-go/blob/master/LICENSE)
 ==================================================================================================================================================================================================================================================================================================================================================================================================================
 
 The Buckit Go Client SDK provides straightforward APIs to access any Amazon S3 compatible object storage.
