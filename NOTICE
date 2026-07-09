@@ -1,3 +1,24 @@
+Buckit Go Client SDK
+
+Copyright (c) 2026 Buckit contributors.
+
+Buckit Go Client SDK is a fork of the open source MinIO Go Client SDK, 
+originally developed by MinIO, Inc.
+
+Buckit Go Client SDK is distributed under the Apache License, Version 2.0.
+See the LICENSE file for the complete license text.
+
+Buckit is independently developed and maintained. Buckit is not affiliated
+with, endorsed by, or sponsored by MinIO, Inc. "MinIO" is a trademark of
+MinIO, Inc.
+
+This fork includes rebranding, documentation updates, configuration changes,
+build and release changes, bug fixes, and functional enhancements.
+
+The original notices from the MinIO project are reproduced below.
+
+-------------------------------------------------------------------
+
 MinIO Cloud Storage, (C) 2014-2020 MinIO, Inc.
 
 This product includes software developed at MinIO, Inc.
@@ -6,4 +27,4 @@ This product includes software developed at MinIO, Inc.
 The MinIO project contains unmodified/modified subcomponents too with
 separate copyright notices and license terms. Your use of the source
 code for these subcomponents is subject to the terms and conditions
-of Apache License Version 2.0
+of Apache License Version 2.0.
